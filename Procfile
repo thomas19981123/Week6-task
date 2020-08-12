@@ -1,0 +1,1 @@
+web: gunicorn week6-task:app
